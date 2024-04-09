@@ -1,5 +1,8 @@
 # o-que-eu-sei
 
+##VsCode
+Utilizado para edição de codigo fonte, versionamento GIT, pluguins visuais para Docker entre outros recursos.
+
 ## Docusaurus
 Framework utilizado para criação de documentação.
 
