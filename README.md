@@ -14,3 +14,6 @@ Utilizado para criação de banco de dados.
 
 ## Docker
 Utilizado para criação de cointeiners para virtualização de sistemas operacionais.
+
+## GIT
+Ferramenta utilizada para o controle de versão.
