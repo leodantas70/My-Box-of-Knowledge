@@ -11,3 +11,6 @@ Framework utilizado para criação de sites.
 
 ## MySql
 Utilizado para criação de banco de dados.
+
+## Docker
+Utilizado para criação de cointeiners para virtualização de sistemas operacionais.
