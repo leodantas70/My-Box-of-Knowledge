@@ -1,6 +1,6 @@
 # o-que-eu-sei
 
-##VsCode
+## VsCode
 Utilizado para edição de codigo fonte, versionamento GIT, pluguins visuais para Docker entre outros recursos.
 
 ## Docusaurus
